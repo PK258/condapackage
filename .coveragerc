@@ -1,0 +1,7 @@
+[report]
+omit =
+    setup.py
+    condademo/__main__.py
+    condademo/_version.py
+    versioneer.py
+    tests/*
